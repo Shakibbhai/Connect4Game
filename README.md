@@ -27,3 +27,4 @@ Make sure you have Python 3.8+ and Pygame installed:
 
 ```bash
 pip install pygame
+python ui.py
